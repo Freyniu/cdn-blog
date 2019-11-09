@@ -10,7 +10,7 @@
 	// 推送至远程仓库 
 	git push
   ##  通过jsDeliver引用资源 ##
-  ### npm ###
+  ### npm使用 ###
       // load any project hosted on npm (加载任何Github发布、提交或分支)
 	https://cdn.jsdelivr.net/npm/package@version/file
 
